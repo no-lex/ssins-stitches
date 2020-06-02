@@ -8,13 +8,13 @@ Particular antennas of note:
 
 ### Wave patterns
 
-61 (eighth reciever, sixth antenna)
-78 (tenth reciever, seventh antenna)
-79 (tenth reciever, eigth antenna)
-91 (twelfth reciever, fourth antenna)
-93 (twelfth reciever, sixth antenna)
-95 (twelfth reciever, eigth antenna)
+* 61 (eighth reciever, sixth antenna)
+* 78 (tenth reciever, seventh antenna)
+* 79 (tenth reciever, eigth antenna)
+* 91 (twelfth reciever, fourth antenna)
+* 93 (twelfth reciever, sixth antenna)
+* 95 (twelfth reciever, eigth antenna)
 
 ### Other patterns of note
 
-123 (sixteenth reciever, fourth antenna)
+* 123 (sixteenth reciever, fourth antenna)

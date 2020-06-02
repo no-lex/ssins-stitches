@@ -9,14 +9,14 @@ Particular antennas of note:
 
 ### Wave patterns
 
-61 (eighth reciever, sixth antenna)
-75 (tenth reciever, fourth antenna)
-78 (tenth reciever, seventh antenna)
-79 (tenth reciever, eigth antenna)
-92 (twelfth reciever, fifth antenna)
-93 (twelfth reciever, sixth antenna)
-95 (twelfth reciever, eigth antenna)
-121 (sixteenth reciever, second antenna)
+* 61 (eighth reciever, sixth antenna)
+* 75 (tenth reciever, fourth antenna)
+* 78 (tenth reciever, seventh antenna)
+* 79 (tenth reciever, eigth antenna)
+* 92 (twelfth reciever, fifth antenna)
+* 93 (twelfth reciever, sixth antenna)
+* 95 (twelfth reciever, eigth antenna)
+* 121 (sixteenth reciever, second antenna)
 
 ### Streaks in obs boundaries
 These observations have some strange sky subtraction patterns at the boundaries
